@@ -15,24 +15,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(130,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(227.2,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(210.8,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(340.8,30)">
+      <g transform="translate(308,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(413.4,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(380.6,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g>
       <g transform="translate(510.6,30)">
         <rect width="118" height="34" rx="17" fill="#f7df1e" fill-opacity=".1" stroke="#f7df1e" stroke-width="1.5" filter="url(#glow)"/>
@@ -40,24 +40,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(640.6,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(737.8,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(721.4,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(851.4,30)">
+      <g transform="translate(818.6,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(924,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(891.2,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g>
       <g transform="translate(1021.2,30)">
         <rect width="118" height="34" rx="17" fill="#f7df1e" fill-opacity=".1" stroke="#f7df1e" stroke-width="1.5" filter="url(#glow)"/>
@@ -65,24 +65,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(1151.2,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(1248.4,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(1232,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(1362,30)">
+      <g transform="translate(1329.2,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(1434.6,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(1401.8,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g>
       <g transform="translate(1531.8,30)">
         <rect width="118" height="34" rx="17" fill="#f7df1e" fill-opacity=".1" stroke="#f7df1e" stroke-width="1.5" filter="url(#glow)"/>
@@ -90,24 +90,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(1661.8,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(1759,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(1742.6,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(1872.6,30)">
+      <g transform="translate(1839.8,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(1945.2,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(1912.4,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g>
       <g transform="translate(2042.4,30)">
         <rect width="118" height="34" rx="17" fill="#f7df1e" fill-opacity=".1" stroke="#f7df1e" stroke-width="1.5" filter="url(#glow)"/>
@@ -115,24 +115,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(2172.4,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(2269.6,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(2253.2,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(2383.2,30)">
+      <g transform="translate(2350.4,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(2455.8,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(2423,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g>
       <g transform="translate(2553,30)">
         <rect width="118" height="34" rx="17" fill="#f7df1e" fill-opacity=".1" stroke="#f7df1e" stroke-width="1.5" filter="url(#glow)"/>
@@ -140,24 +140,24 @@
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">JavaScript</text>
       </g>
       <g transform="translate(2683,30)">
+        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
+        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      </g>
+      <g transform="translate(2780.2,30)">
         <rect width="68.8" height="34" rx="17" fill="#e34f26" fill-opacity=".1" stroke="#e34f26" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#e34f26"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">HTML</text>
       </g>
-      <g transform="translate(2763.8,30)">
-        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
-        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g>
-      <g transform="translate(2893.8,30)">
+      <g transform="translate(2861,30)">
         <rect width="60.6" height="34" rx="17" fill="#1572b6" fill-opacity=".1" stroke="#1572b6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#1572b6"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">CSS</text>
       </g>
-      <g transform="translate(2966.4,30)">
-        <rect width="85.2" height="34" rx="17" fill="#3776ab" fill-opacity=".1" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#3776ab"/>
-        <text x="22" y="22" textLength="49.2" lengthAdjust="spacingAndGlyphs" class="chip">Python</text>
+      <g transform="translate(2933.6,30)">
+        <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#3178c6"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
       </g></g><g style="animation:row86 37.2s linear infinite">
       <g transform="translate(0,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
