@@ -4,7 +4,7 @@
 <style>
     .chip{font:bold 13px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;fill:#f0eaff;letter-spacing:.5px}
     @keyframes row30{from{transform:translateX(0px)}to{transform:translateX(-1531.8px)}}
-@keyframes row86{from{transform:translateX(-1408.8px)}to{transform:translateX(0px)}}</style>
+@keyframes row86{from{transform:translateX(-1433.4px)}to{transform:translateX(0px)}}</style>
 <g clip-path="url(#frame)">
 <rect width="860" height="150" fill="#08071a"/>
 <rect width="860" height="150" fill="none" stroke="#2a2550" rx="16"/>
@@ -158,156 +158,156 @@
         <rect width="118" height="34" rx="17" fill="#3178c6" fill-opacity=".1" stroke="#3178c6" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#3178c6"/>
         <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">TypeScript</text>
-      </g></g><g style="animation:row86 47s linear infinite">
+      </g></g><g style="animation:row86 47.8s linear infinite">
       <g transform="translate(0,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
+      </g>
+      <g transform="translate(130,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(72.6,86)">
+      <g transform="translate(202.6,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(161.6,86)">
+      <g transform="translate(291.6,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(242.4,86)">
+      <g transform="translate(372.4,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
       </g>
-      <g transform="translate(347.8,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
+      <g transform="translate(477.8,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
       </g>
-      <g transform="translate(469.6,86)">
+      <g transform="translate(607.8,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(542.2,86)">
+      <g transform="translate(680.4,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(631.2,86)">
+      <g transform="translate(769.4,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(712,86)">
+      <g transform="translate(850.2,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
       </g>
-      <g transform="translate(817.4,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
+      <g transform="translate(955.6,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
       </g>
-      <g transform="translate(939.2,86)">
+      <g transform="translate(1085.6,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(1011.8,86)">
+      <g transform="translate(1158.2,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(1100.8,86)">
+      <g transform="translate(1247.2,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(1181.6,86)">
+      <g transform="translate(1328,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
       </g>
-      <g transform="translate(1287,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
+      <g transform="translate(1433.4,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
       </g>
-      <g transform="translate(1408.8,86)">
+      <g transform="translate(1563.4,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(1481.4,86)">
+      <g transform="translate(1636,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(1570.4,86)">
+      <g transform="translate(1725,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(1651.2,86)">
+      <g transform="translate(1805.8,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
       </g>
-      <g transform="translate(1756.6,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
+      <g transform="translate(1911.2,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
       </g>
-      <g transform="translate(1878.4,86)">
+      <g transform="translate(2041.2,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(1951,86)">
+      <g transform="translate(2113.8,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(2040,86)">
+      <g transform="translate(2202.8,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(2120.8,86)">
+      <g transform="translate(2283.6,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
       </g>
-      <g transform="translate(2226.2,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
+      <g transform="translate(2389,86)">
+        <rect width="118" height="34" rx="17" fill="#012456" fill-opacity=".1" stroke="#012456" stroke-width="1.5" filter="url(#glow)"/>
+        <circle cx="14" cy="17" r="3" fill="#012456"/>
+        <text x="22" y="22" textLength="82" lengthAdjust="spacingAndGlyphs" class="chip">PowerShell</text>
       </g>
-      <g transform="translate(2348,86)">
+      <g transform="translate(2519,86)">
         <rect width="60.6" height="34" rx="17" fill="#f34b7d" fill-opacity=".1" stroke="#f34b7d" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#f34b7d"/>
         <text x="22" y="22" textLength="24.6" lengthAdjust="spacingAndGlyphs" class="chip">C++</text>
       </g>
-      <g transform="translate(2420.6,86)">
+      <g transform="translate(2591.6,86)">
         <rect width="77" height="34" rx="17" fill="#89e051" fill-opacity=".1" stroke="#89e051" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#89e051"/>
         <text x="22" y="22" textLength="41" lengthAdjust="spacingAndGlyphs" class="chip">Shell</text>
       </g>
-      <g transform="translate(2509.6,86)">
+      <g transform="translate(2680.6,86)">
         <rect width="68.8" height="34" rx="17" fill="#ed8b00" fill-opacity=".1" stroke="#ed8b00" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#ed8b00"/>
         <text x="22" y="22" textLength="32.8" lengthAdjust="spacingAndGlyphs" class="chip">Java</text>
       </g>
-      <g transform="translate(2590.4,86)">
+      <g transform="translate(2761.4,86)">
         <rect width="93.4" height="34" rx="17" fill="#336790" fill-opacity=".1" stroke="#336790" stroke-width="1.5" filter="url(#glow)"/>
         <circle cx="14" cy="17" r="3" fill="#336790"/>
         <text x="22" y="22" textLength="57.4" lengthAdjust="spacingAndGlyphs" class="chip">PLpgSQL</text>
-      </g>
-      <g transform="translate(2695.8,86)">
-        <rect width="109.8" height="34" rx="17" fill="#C1F12E" fill-opacity=".1" stroke="#C1F12E" stroke-width="1.5" filter="url(#glow)"/>
-        <circle cx="14" cy="17" r="3" fill="#C1F12E"/>
-        <text x="22" y="22" textLength="73.8" lengthAdjust="spacingAndGlyphs" class="chip">Batchfile</text>
       </g></g></g>
 </g>
 </svg>
